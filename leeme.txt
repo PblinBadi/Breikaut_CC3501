@@ -1,0 +1,12 @@
+
+Este juego solo se ejecutará teniendo las librerias Pygame de Python.
+Ademas solo fue probado en Ubuntu, en la cual posee buen funcionamiento.
+
+Para iniciar el juego, ejecutar el archivo main.py
+
+Otros : 
+
+Los demas archivos de modelo, vista y controlador se encuentran en la misma carpeta de main.py,
+mientras que los archivos de fondo, musica, fuentes y sprites se encuentran en la carpeta Archivos
+
+.....
